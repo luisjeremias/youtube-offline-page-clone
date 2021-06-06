@@ -2,7 +2,7 @@
 
 This is a simple react project, It's a youtube ofline page, i dont have internet and i decide to make.
 
-[![Preview](https://github.com/luisjeremias/youtube-offline-page-clone/blob/master/capture.JPG?raw=true)
+[![Preview](https://github.com/luisjeremias/youtube-offline-page-clone/blob/master/Capture.JPG?raw=true)
 
 ## How to install?
 
