@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Robotto';
+  src: url('./Roboto-Medium.ttf');
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+
+}
+body{
+    font-family: 'Robotto','Arial';
+    background-color: #181818;
+
+}
