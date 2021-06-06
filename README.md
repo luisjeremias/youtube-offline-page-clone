@@ -14,7 +14,15 @@ Type in your cmd or terminal
 git clone https://github.com/luisjeremias/youtube-offline-page-clone
 ```
 
-To install de depedences and run the project, type in your terminal and run
+To install de depedences , type in your terminal and run
+```
+npm install
 ```
 
+## How To Run The Project?
+Its Simple, after install the dependences type in your terminal:
+
+```
+npm start
+```
 ### Thanks
